@@ -14,20 +14,20 @@ listOfMaps:
       isLocallyHosted: true
       spriteID: 'thum_eiffelTower'
     
-    - mapDisplayName: Yuletide Cheer
-      mapId: 3
+    - mapDisplayName: Monk's Sanctuary
+      mapId: 5
       isLocallyHosted: false
-      spriteID: 'thum_christmas'
+      spriteID: 'thum_ShaolinTemple'
       
     - mapDisplayName: Haunted Hollow
       mapId: 4
       isLocallyHosted: false
       spriteID: 'thum_Halloween'
       
-    - mapDisplayName: Monk's Sanctuary
-      mapId: 5
+    - mapDisplayName: Yuletide Cheer
+      mapId: 3
       isLocallyHosted: false
-      spriteID: 'thum_ShaolinTemple'
+      spriteID: 'thum_christmas'
       
     - mapDisplayName: Bazaar Mirage
       mapId: 6
