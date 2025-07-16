@@ -29,20 +29,20 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_christmas'
       
-    - mapDisplayName: Bazaar Mirage
-      mapId: 6
+    - mapDisplayName: Elixir Workshop
+      mapId: 8
       isLocallyHosted: false
-      spriteID: 'thum_grandBazar'
+      spriteID: 'thum_AlchemistLab'
       
     - mapDisplayName: Lost Aztec Empire
       mapId: 7
       isLocallyHosted: false
       spriteID: 'thum_Aztec'  
       
-    - mapDisplayName: Elixir Workshop
-      mapId: 8
+    - mapDisplayName: Bazaar Mirage
+      mapId: 6
       isLocallyHosted: false
-      spriteID: 'thum_AlchemistLab'
+      spriteID: 'thum_grandBazar'
       
     - mapDisplayName: Tiny Tales Library
       mapId: 9
