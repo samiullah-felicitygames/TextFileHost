@@ -29,10 +29,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_ShaolinTemple'
       
-    - mapDisplayName: Bazaar Mirage
-      mapId: 6
+    - mapDisplayName: Tiny Tales Library
+      mapId: 9
       isLocallyHosted: false
-      spriteID: 'thum_grandBazar'
+      spriteID: 'thum_LiliputLib'
       
     - mapDisplayName: Lost Aztec Empire
       mapId: 7
@@ -44,10 +44,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_AlchemistLab'
       
-    - mapDisplayName: Tiny Tales Library
-      mapId: 9
+    - mapDisplayName: Bazaar Mirage
+      mapId: 6
       isLocallyHosted: false
-      spriteID: 'thum_LiliputLib'
+      spriteID: 'thum_grandBazar'
       
     - mapDisplayName: Vintage Metropolis
       mapId: 10
