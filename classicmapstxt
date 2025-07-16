@@ -1,0 +1,713 @@
+listOfMaps:
+    - mapDisplayName: Mystic Meadows
+      mapId: 0
+      isLocallyHosted: true
+      spriteID: 'thum_MagicalFarmland'  
+    
+    - mapDisplayName: Freedom Plaza
+      mapId: 1
+      isLocallyHosted: true
+      spriteID: 'thum_LibertySquare'
+    
+    - mapDisplayName: Parisian Heights
+      mapId: 2
+      isLocallyHosted: true
+      spriteID: 'thum_eiffelTower'
+    
+    - mapDisplayName: Yuletide Cheer
+      mapId: 3
+      isLocallyHosted: false
+      spriteID: 'thum_christmas'
+      
+    - mapDisplayName: Haunted Hollow
+      mapId: 4
+      isLocallyHosted: false
+      spriteID: 'thum_Halloween'
+      
+    - mapDisplayName: Monk's Sanctuary
+      mapId: 5
+      isLocallyHosted: false
+      spriteID: 'thum_ShaolinTemple'
+      
+    - mapDisplayName: Bazaar Mirage
+      mapId: 6
+      isLocallyHosted: false
+      spriteID: 'thum_grandBazar'
+      
+    - mapDisplayName: Lost Aztec Empire
+      mapId: 7
+      isLocallyHosted: false
+      spriteID: 'thum_Aztec'  
+      
+    - mapDisplayName: Elixir Workshop
+      mapId: 8
+      isLocallyHosted: false
+      spriteID: 'thum_AlchemistLab'
+      
+    - mapDisplayName: Tiny Tales Library
+      mapId: 9
+      isLocallyHosted: false
+      spriteID: 'thum_LiliputLib'
+      
+    - mapDisplayName: Vintage Metropolis
+      mapId: 10
+      isLocallyHosted: false
+      spriteID: 'thum_RusticMetropolis'
+      
+    - mapDisplayName: Championship Arena
+      mapId: 11
+      isLocallyHosted: false
+      spriteID: 'thum_SuperBowl2025'
+      
+    - mapDisplayName: Thrilltopia
+      mapId: 12
+      isLocallyHosted: false
+      spriteID: 'thum_AmusementPark'
+      
+    - mapDisplayName: Midnight Countdown
+      mapId: 13
+      isLocallyHosted: false
+      spriteID: 'thum_NewYear2025'
+      
+    - mapDisplayName: Deep Blue Wonders
+      mapId: 14
+      isLocallyHosted: false
+      spriteID: 'thum_Aquarium'
+      
+    - mapDisplayName: Tranquil Feast
+      mapId: 15
+      isLocallyHosted: false
+      spriteID: 'thum_ZenFoodFest'
+      
+    - mapDisplayName: Neon Nexus
+      mapId: 16
+      isLocallyHosted: false
+      spriteID: 'thum_cyberpunkCity'
+      
+    - mapDisplayName: Campus Chronicles
+      mapId: 17
+      isLocallyHosted: false
+      spriteID: 'thum_collegeCampus'
+      
+    - mapDisplayName: Sugar Rush Kingdom
+      mapId: 18
+      isLocallyHosted: false
+      spriteID: 'thum_candyLand'
+      
+    - mapDisplayName: Aqua Haven
+      mapId: 19
+      isLocallyHosted: false
+      spriteID: 'thum_AquaticBay'
+      
+    - mapDisplayName: Innovation Hub
+      mapId: 20
+      isLocallyHosted: false
+      spriteID: 'thum_ResearchCenter'
+      
+    - mapDisplayName: Indian Heritage
+      mapId: 21
+      isLocallyHosted: false
+      spriteID: 'thum_IndianSaga'
+      
+    - mapDisplayName: Festival Frenzy
+      mapId: 22
+      isLocallyHosted: false
+      spriteID: 'thum_Carnival'
+      
+    - mapDisplayName: Tropical Escape
+      mapId: 23
+      isLocallyHosted: false
+      spriteID: 'thum_cruiseIsland'
+      
+    - mapDisplayName: Sunny Shores
+      mapId: 24
+      isLocallyHosted: false
+      spriteID: 'thum_seabeach'
+      
+    - mapDisplayName: Pharaoh's Legacy
+      mapId: 25
+      isLocallyHosted: false
+      spriteID: 'thum_GreatPyramid'
+      
+    - mapDisplayName: Frozen Fantasy
+      mapId: 26
+      isLocallyHosted: false
+      spriteID: 'thum_WinterWonderland'
+      
+    - mapDisplayName: Wreckage Wars
+      mapId: 27
+      isLocallyHosted: false
+      spriteID: 'thum_crashZone'
+      
+    - mapDisplayName: Cosmic Frontier
+      mapId: 28
+      isLocallyHosted: false
+      spriteID: 'thum_galactivOutpost'
+      
+    - mapDisplayName: Riverside Retreat
+      mapId: 29
+      isLocallyHosted: false
+      spriteID: 'thum_RiversideBistro'
+      
+    - mapDisplayName: Wild Trek
+      mapId: 30
+      isLocallyHosted: false
+      spriteID: 'thum_JungleExpedition'
+      
+    - mapDisplayName: Enchanted Glade
+      mapId: 31
+      isLocallyHosted: false
+      spriteID: 'thum_fairyVillage'
+      
+    - mapDisplayName: Arctic Voyage
+      mapId: 32
+      isLocallyHosted: false
+      spriteID: 'thum_IcebergCruise'
+      
+    - mapDisplayName: Harvest Homestead
+      mapId: 33
+      isLocallyHosted: false
+      spriteID: 'thum_farmsteadBliss'
+      
+    - mapDisplayName: Cyber Glow City
+      mapId: 34
+      isLocallyHosted: false
+      spriteID: 'thum_NeonMetropolis'
+      
+    - mapDisplayName: Spring Blossom Fest
+      mapId: 35
+      isLocallyHosted: false
+      spriteID: 'thum_easter'
+      
+    - mapDisplayName: Ancient Echoes
+      mapId: 36
+      isLocallyHosted: false
+      spriteID: 'thum_TimeWornRuins'
+      
+    - mapDisplayName: Desert Mirage
+      mapId: 37
+      isLocallyHosted: false
+      spriteID: 'thum_cactusValley'
+      
+    - mapDisplayName: Samurai District
+      mapId: 38
+      isLocallyHosted: false
+      spriteID: 'thum_cyberSamurai'
+      
+    - mapDisplayName: Forgotten Relics
+      mapId: 39
+      isLocallyHosted: false
+      spriteID: 'thum_RuinsOfPast'
+
+    - mapDisplayName: Toxin Lab
+      mapId: 54
+      isLocallyHosted: false
+      spriteID: 'thum_BiohazardLab'
+    
+    - mapDisplayName: Ice Lab
+      mapId: 55
+      isLocallyHosted: false
+      spriteID: 'thum_ArcticResearchFacility'
+    
+    - mapDisplayName: Sky Isles
+      mapId: 56
+      isLocallyHosted: false
+      spriteID: 'thum_FloatingIslesOfZephyr'
+    
+    - mapDisplayName: Spooky Grave
+      mapId: 57
+      isLocallyHosted: false
+      spriteID: 'thum_HauntedCemetery'
+    
+    - mapDisplayName: Bloom Shrine
+      mapId: 58
+      isLocallyHosted: false
+      spriteID: 'thum_SakuraShrine'
+    
+    - mapDisplayName: Lava Nest
+      mapId: 59
+      isLocallyHosted: false
+      spriteID: 'thum_DragonRoost'
+    
+    - mapDisplayName: Sand Camp
+      mapId: 60
+      isLocallyHosted: false
+      spriteID: 'thum_DesertNomadCamp'
+    
+    - mapDisplayName: Ghost Park
+      mapId: 61
+      isLocallyHosted: false
+      spriteID: 'thum_GhostlyAmusementPark'
+    
+    - mapDisplayName: Star Watch
+      mapId: 62
+      isLocallyHosted: false
+      spriteID: 'thum_CelestialObservatory'
+    
+    - mapDisplayName: Gear Town
+      mapId: 63
+      isLocallyHosted: false
+      spriteID: 'thum_ClockworkCity'
+    
+    - mapDisplayName: Prank Land
+      mapId: 64
+      isLocallyHosted: false
+      spriteID: 'thum_AprilFoolsDay'
+    
+    - mapDisplayName: Steam Port
+      mapId: 65
+      isLocallyHosted: false
+      spriteID: 'thum_SteampunkSkyport'
+
+    - mapDisplayName: Underwater Atlantis
+      mapId: 412
+      isLocallyHosted: false
+      spriteID: 'thum_UnderwaterAtlantis'
+    
+    - mapDisplayName: Neon Junkyard
+      mapId: 413
+      isLocallyHosted: false
+      spriteID: 'thum_NeonJunkyard'
+    
+    - mapDisplayName: 4th of July
+      mapId: 414
+      isLocallyHosted: false
+      spriteID: 'thum_USIndependence'
+    
+    - mapDisplayName: Summer Kickoff
+      mapId: 415
+      isLocallyHosted: false
+      spriteID: 'thum_SummerKickoff'
+    
+    - mapDisplayName: Mother Day
+      mapId: 416
+      isLocallyHosted: false
+      spriteID: 'thum_MothersDay'
+
+    - mapDisplayName: Puppet Theatre
+      mapId: 422
+      isLocallyHosted: false
+      spriteID: 'thum_PuppetTheatre'
+    
+    - mapDisplayName: Valentines Day
+      mapId: 424
+      isLocallyHosted: false
+      spriteID: 'thum_ValentinesDay'
+    
+    - mapDisplayName: Lunar Research
+      mapId: 425
+      isLocallyHosted: false
+      spriteID: 'thum_LunarResearch'
+
+    - mapDisplayName: Plaza Reflection
+      mapId: 66
+      isLocallyHosted: true
+      spriteID: 'thum_LibertySquare'
+      prefabId: 1
+      mapType: Mirror
+    
+    - mapDisplayName: Paris Mirror
+      mapId: 67
+      isLocallyHosted: true
+      spriteID: 'thum_eiffelTower'
+      prefabId: 2
+      mapType: Mirror
+    
+    - mapDisplayName: Cheer Reversed
+      mapId: 68
+      isLocallyHosted: false
+      spriteID: 'thum_christmas'
+      prefabId: 3
+      mapType: Mirror
+      
+    - mapDisplayName: Hollow Flip
+      mapId: 69
+      isLocallyHosted: false
+      spriteID: 'thum_Halloween'
+      prefabId: 4
+      mapType: Mirror
+      
+    - mapDisplayName: Sanctuary Twin
+      mapId: 70
+      isLocallyHosted: false
+      spriteID: 'thum_ShaolinTemple'
+      prefabId: 5
+      mapType: Mirror
+      
+    - mapDisplayName: Mirage Reflect
+      mapId: 71
+      isLocallyHosted: false
+      spriteID: 'thum_grandBazar'
+      prefabId: 6
+      mapType: Mirror
+      
+    - mapDisplayName: Empire Mirror
+      mapId: 72
+      isLocallyHosted: false
+      spriteID: 'thum_Aztec'
+      prefabId: 7
+      mapType: Mirror
+      
+    - mapDisplayName: Workshop Flip
+      mapId: 73
+      isLocallyHosted: false
+      spriteID: 'thum_AlchemistLab'
+      prefabId: 8
+      mapType: Mirror
+      
+    - mapDisplayName: Library Twin
+      mapId: 74
+      isLocallyHosted: false
+      spriteID: 'thum_LiliputLib'
+      prefabId: 9
+      mapType: Mirror
+      
+    - mapDisplayName: Metro Reflect
+      mapId: 75
+      isLocallyHosted: false
+      spriteID: 'thum_RusticMetropolis'
+      prefabId: 10
+      mapType: Mirror
+      
+    - mapDisplayName: Arena Mirror
+      mapId: 76
+      isLocallyHosted: false
+      spriteID: 'thum_SuperBowl2025'
+      prefabId: 11
+      mapType: Mirror
+      
+    - mapDisplayName: Thrill Flip
+      mapId: 77
+      isLocallyHosted: false
+      spriteID: 'thum_AmusementPark'
+      prefabId: 12
+      mapType: Mirror
+      
+    - mapDisplayName: Countdown Twin
+      mapId: 78
+      isLocallyHosted: false
+      spriteID: 'thum_NewYear2025'
+      prefabId: 13
+      mapType: Mirror
+      
+    - mapDisplayName: Wonders Reflect
+      mapId: 79
+      isLocallyHosted: false
+      spriteID: 'thum_Aquarium'
+      prefabId: 14
+      mapType: Mirror
+      
+    - mapDisplayName: Feast Mirror
+      mapId: 80
+      isLocallyHosted: false
+      spriteID: 'thum_ZenFoodFest'
+      prefabId: 15
+      mapType: Mirror
+      
+    - mapDisplayName: Nexus Flip
+      mapId: 81
+      isLocallyHosted: false
+      spriteID: 'thum_cyberpunkCity'
+      prefabId: 16
+      mapType: Mirror
+      
+    - mapDisplayName: Campus Twin
+      mapId: 82
+      isLocallyHosted: false
+      spriteID: 'thum_collegeCampus'
+      prefabId: 17
+      mapType: Mirror
+      
+    - mapDisplayName: Kingdom Reflect
+      mapId: 83
+      isLocallyHosted: false
+      spriteID: 'thum_candyLand'
+      prefabId: 18
+      mapType: Mirror
+      
+    - mapDisplayName: Haven Mirror
+      mapId: 84
+      isLocallyHosted: false
+      spriteID: 'thum_AquaticBay'
+      prefabId: 19
+      mapType: Mirror
+      
+    - mapDisplayName: Hub Flip
+      mapId: 85
+      isLocallyHosted: false
+      spriteID: 'thum_ResearchCenter'
+      prefabId: 20
+      mapType: Mirror
+      
+    - mapDisplayName: Heritage Twin
+      mapId: 86
+      isLocallyHosted: false
+      spriteID: 'thum_IndianSaga'
+      prefabId: 21
+      mapType: Mirror
+      
+    - mapDisplayName: Frenzy Reflect
+      mapId: 87
+      isLocallyHosted: false
+      spriteID: 'thum_Carnival'
+      prefabId: 22
+      mapType: Mirror
+      
+    - mapDisplayName: Escape Mirror
+      mapId: 88
+      isLocallyHosted: false
+      spriteID: 'thum_cruiseIsland'
+      prefabId: 23
+      mapType: Mirror
+      
+    - mapDisplayName: Shores Flip
+      mapId: 89
+      isLocallyHosted: false
+      spriteID: 'thum_seabeach'
+      prefabId: 24
+      mapType: Mirror
+      
+    - mapDisplayName: Legacy Twin
+      mapId: 90
+      isLocallyHosted: false
+      spriteID: 'thum_GreatPyramid'
+      prefabId: 25
+      mapType: Mirror
+      
+    - mapDisplayName: Fantasy Reflect
+      mapId: 91
+      isLocallyHosted: false
+      spriteID: 'thum_WinterWonderland'
+      prefabId: 26
+      mapType: Mirror
+      
+    - mapDisplayName: Wars Mirror
+      mapId: 92
+      isLocallyHosted: false
+      spriteID: 'thum_crashZone'
+      prefabId: 27
+      mapType: Mirror
+      
+    - mapDisplayName: Frontier Flip
+      mapId: 93
+      isLocallyHosted: false
+      spriteID: 'thum_galactivOutpost'
+      prefabId: 28
+      mapType: Mirror
+      
+    - mapDisplayName: Retreat Twin
+      mapId: 94
+      isLocallyHosted: false
+      spriteID: 'thum_RiversideBistro'
+      prefabId: 29
+      mapType: Mirror
+      
+    - mapDisplayName: Trek Reflect
+      mapId: 95
+      isLocallyHosted: false
+      spriteID: 'thum_JungleExpedition'
+      prefabId: 30
+      mapType: Mirror
+      
+    - mapDisplayName: Glade Mirror
+      mapId: 96
+      isLocallyHosted: false
+      spriteID: 'thum_fairyVillage'
+      prefabId: 31
+      mapType: Mirror
+      
+    - mapDisplayName: Voyage Flip
+      mapId: 97
+      isLocallyHosted: false
+      spriteID: 'thum_IcebergCruise'
+      prefabId: 32
+      mapType: Mirror
+      
+    - mapDisplayName: Homestead Twin
+      mapId: 98
+      isLocallyHosted: false
+      spriteID: 'thum_farmsteadBliss'
+      prefabId: 33
+      mapType: Mirror
+      
+    - mapDisplayName: City Reflect
+      mapId: 99
+      isLocallyHosted: false
+      spriteID: 'thum_NeonMetropolis'
+      prefabId: 34
+      mapType: Mirror
+      
+    - mapDisplayName: Fest Mirror
+      mapId: 100
+      isLocallyHosted: false
+      spriteID: 'thum_easter'
+      prefabId: 35
+      mapType: Mirror
+      
+    - mapDisplayName: Echoes Flip
+      mapId: 101
+      isLocallyHosted: false
+      spriteID: 'thum_TimeWornRuins'
+      prefabId: 36
+      mapType: Mirror
+      
+    - mapDisplayName: Mirage Twin
+      mapId: 102
+      isLocallyHosted: false
+      spriteID: 'thum_cactusValley'
+      prefabId: 37
+      mapType: Mirror
+      
+    - mapDisplayName: District Reflect
+      mapId: 103
+      isLocallyHosted: false
+      spriteID: 'thum_cyberSamurai'
+      prefabId: 38
+      mapType: Mirror
+      
+    - mapDisplayName: Relics Mirror
+      mapId: 104
+      isLocallyHosted: false
+      spriteID: 'thum_RuinsOfPast'
+      prefabId: 39
+      mapType: Mirror
+
+    - mapDisplayName: Lab Flip
+      mapId: 105
+      isLocallyHosted: false
+      spriteID: 'thum_BiohazardLab'
+      prefabId: 54
+      mapType: Mirror
+    
+    - mapDisplayName: Ice Twin
+      mapId: 106
+      isLocallyHosted: false
+      spriteID: 'thum_ArcticResearchFacility'
+      prefabId: 55
+      mapType: Mirror
+    
+    - mapDisplayName: Isles Reflect
+      mapId: 107
+      isLocallyHosted: false
+      spriteID: 'thum_FloatingIslesOfZephyr'
+      prefabId: 56
+      mapType: Mirror
+    
+    - mapDisplayName: Cemetery Mirror
+      mapId: 108
+      isLocallyHosted: false
+      spriteID: 'thum_HauntedCemetery'
+      prefabId: 57
+      mapType: Mirror
+    
+    - mapDisplayName: Shrine Flip
+      mapId: 109
+      isLocallyHosted: false
+      spriteID: 'thum_SakuraShrine'
+      prefabId: 58
+      mapType: Mirror
+    
+    - mapDisplayName: Roost Twin
+      mapId: 110
+      isLocallyHosted: false
+      spriteID: 'thum_DragonRoost'
+      prefabId: 59
+      mapType: Mirror
+    
+    - mapDisplayName: Camp Reflect
+      mapId: 111
+      isLocallyHosted: false
+      spriteID: 'thum_DesertNomadCamp'
+      prefabId: 60
+      mapType: Mirror
+    
+    - mapDisplayName: Park Mirror
+      mapId: 112
+      isLocallyHosted: false
+      spriteID: 'thum_GhostlyAmusementPark'
+      prefabId: 61
+      mapType: Mirror
+    
+    - mapDisplayName: Watch Flip
+      mapId: 113
+      isLocallyHosted: false
+      spriteID: 'thum_CelestialObservatory'
+      prefabId: 62
+      mapType: Mirror
+    
+    - mapDisplayName: City Twin
+      mapId: 114
+      isLocallyHosted: false
+      spriteID: 'thum_ClockworkCity'
+      prefabId: 63
+      mapType: Mirror
+    
+    - mapDisplayName: Day Reflect
+      mapId: 115
+      isLocallyHosted: false
+      spriteID: 'thum_AprilFoolsDay'
+      prefabId: 64
+      mapType: Mirror
+    
+    - mapDisplayName: Port Mirror
+      mapId: 116
+      isLocallyHosted: false
+      spriteID: 'thum_SteampunkSkyport'
+      prefabId: 65
+      mapType: Mirror
+
+    - mapDisplayName: Abyssal Realms
+      mapId: 417
+      isLocallyHosted: false
+      spriteID: 'thum_UnderwaterAtlantis'
+      prefabId: 412
+      mapType: Mirror
+
+    - mapDisplayName: Neon Salvage Zone
+      mapId: 418
+      isLocallyHosted: false
+      spriteID: 'thum_NeonJunkyard'
+      prefabId: 413
+      mapType: Mirror
+
+    - mapDisplayName: Liberty Fireworks
+      mapId: 419
+      isLocallyHosted: false
+      spriteID: 'thum_USIndependence'
+      prefabId: 414
+      mapType: Mirror
+
+    - mapDisplayName: Sunrise Start
+      mapId: 420
+      isLocallyHosted: false
+      spriteID: 'thum_SummerKickoff'
+      prefabId: 415
+      mapType: Mirror
+      
+    - mapDisplayName: Day of Moms
+      mapId: 421
+      isLocallyHosted: false
+      spriteID: 'thum_MothersDay'
+      prefabId: 416
+      mapType: Mirror
+
+    - mapDisplayName: Strings of Shadows
+      mapId: 429
+      isLocallyHosted: false
+      spriteID: 'thum_PuppetTheatre'
+      prefabId: 422
+      mapType: Mirror
+    
+    - mapDisplayName: Hearts & Halos
+      mapId: 430
+      isLocallyHosted: false
+      spriteID: 'thum_ValentinesDay'
+      prefabId: 424
+      mapType: Mirror
+    
+    - mapDisplayName: Lunar Science Base
+      mapId: 431
+      isLocallyHosted: false
+      spriteID: 'thum_LunarResearch'
+      prefabId: 425
+      mapType: Mirror
