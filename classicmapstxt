@@ -4,15 +4,15 @@ listOfMaps:
       isLocallyHosted: true
       spriteID: 'thum_MagicalFarmland'  
     
-    - mapDisplayName: Freedom Plaza
-      mapId: 1
-      isLocallyHosted: true
-      spriteID: 'thum_LibertySquare'
-    
     - mapDisplayName: Parisian Heights
       mapId: 2
       isLocallyHosted: true
       spriteID: 'thum_eiffelTower'
+    
+    - mapDisplayName: Freedom Plaza
+      mapId: 1
+      isLocallyHosted: true
+      spriteID: 'thum_LibertySquare'
     
     - mapDisplayName: Yuletide Cheer
       mapId: 3
