@@ -19,10 +19,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_ShaolinTemple'
       
-    - mapDisplayName: Lost Aztec Empire
-      mapId: 7
+     - mapDisplayName: Haunted Hollow
+      mapId: 4
       isLocallyHosted: false
-      spriteID: 'thum_Aztec' 
+      spriteID: 'thum_Halloween'
       
     - mapDisplayName: Yuletide Cheer
       mapId: 3
@@ -34,10 +34,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_AlchemistLab'
       
-     - mapDisplayName: Haunted Hollow
-      mapId: 4
+    - mapDisplayName: Lost Aztec Empire
+      mapId: 7
       isLocallyHosted: false
-      spriteID: 'thum_Halloween'
+      spriteID: 'thum_Aztec' 
       
     - mapDisplayName: Bazaar Mirage
       mapId: 6
