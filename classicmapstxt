@@ -12,7 +12,7 @@ listOfMaps:
     - mapDisplayName: Backyard Play Zone
       mapId: 432
       isLocallyHosted: true
-      spriteID: 'thum_BackyardPlayZone'  
+      spriteID: 'thum_BackyardPlayZone'
       
     - mapDisplayName: Red Planet
       mapId: 435
