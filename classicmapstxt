@@ -3,7 +3,7 @@ listOfMaps:
       mapId: 432
       isLocallyHosted: true
       spriteID: 'thum_BackyardPlayZone'  
-    
+
     - mapDisplayName: Airport Terminal
       mapId: 433
       isLocallyHosted: true
