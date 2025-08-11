@@ -1,5 +1,4 @@
 listOfMaps:
-    
     - mapDisplayName: Science Center
       mapId: 434
       isLocallyHosted: true
