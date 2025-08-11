@@ -18,7 +18,7 @@ listOfMaps:
       mapId: 435
       isLocallyHosted: false
       spriteID: 'thum_RedPlanet'
-    
+
     - mapDisplayName: Splash Park
       mapId: 436
       isLocallyHosted: false
