@@ -1,19 +1,89 @@
 listOfMaps:
-    - mapDisplayName: Mystic Meadows
-      mapId: 0
+    - mapDisplayName: Backyard Play Zone
+      mapId: 432
       isLocallyHosted: true
-      spriteID: 'thum_MagicalFarmland'  
-     
-    - mapDisplayName: Parisian Heights
-      mapId: 2
+      spriteID: 'thum_BackyardPlayZone'  
+    
+    - mapDisplayName: Airport Terminal
+      mapId: 433
       isLocallyHosted: true
-      spriteID: 'thum_eiffelTower'
+      spriteID: 'thum_AirportTerminal'
+    
+    - mapDisplayName: Science Center
+      mapId: 434
+      isLocallyHosted: true
+      spriteID: 'thum_ScienceCenter'
+      
+    - mapDisplayName: Red Planet
+      mapId: 435
+      isLocallyHosted: false
+      spriteID: 'thum_RedPlanet'
+    
+    - mapDisplayName: Splash Park
+      mapId: 436
+      isLocallyHosted: false
+      spriteID: 'thum_SplashPark'
+    
+    - mapDisplayName: Shipyard Port
+      mapId: 437
+      isLocallyHosted: false
+      spriteID: 'thum_ShipyardPort'
+    
+    - mapDisplayName: Thanksgiving Harvest
+      mapId: 438
+      isLocallyHosted: false
+      spriteID: 'thum_ThanksgivingHarvest'
+    
+    - mapDisplayName: Mega Build
+      mapId: 439
+      isLocallyHosted: false
+      spriteID: 'thum_MegaBuild'
+    
+    - mapDisplayName: Heritage Plaza
+      mapId: 440
+      isLocallyHosted: false
+      spriteID: 'thum_HeritagePlaza'
+    
+    - mapDisplayName: Mountain Mining
+      mapId: 441
+      isLocallyHosted: false
+      spriteID: 'thum_MountainMining'
+    
+    - mapDisplayName: Bus Terminal
+      mapId: 442
+      isLocallyHosted: false
+      spriteID: 'thum_BusTerminal'
+    
+    - mapDisplayName: Railway Terminal
+      mapId: 443
+      isLocallyHosted: false
+      spriteID: 'thum_RailwayTerminal'
+    
+    - mapDisplayName: Parade Street
+      mapId: 444
+      isLocallyHosted: false
+      spriteID: 'thum_ParadeStreet'
 
+    - mapDisplayName: Restaurant District
+      mapId: 445
+      isLocallyHosted: false
+      spriteID: 'thum_RestaurantDistrict'
+
+    - mapDisplayName: Kite Festive
+      mapId: 446
+      isLocallyHosted: false
+      spriteID: 'thum_KiteFestive'
+    
     - mapDisplayName: Freedom Plaza
       mapId: 1
-      isLocallyHosted: true
+      isLocallyHosted: false
       spriteID: 'thum_LibertySquare'
-
+    
+    - mapDisplayName: Parisian Heights
+      mapId: 2
+      isLocallyHosted: false
+      spriteID: 'thum_eiffelTower'
+    
     - mapDisplayName: Yuletide Cheer
       mapId: 3
       isLocallyHosted: false
@@ -29,10 +99,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_ShaolinTemple'
       
-    - mapDisplayName: Tiny Tales Library
-      mapId: 9
+    - mapDisplayName: Bazaar Mirage
+      mapId: 6
       isLocallyHosted: false
-      spriteID: 'thum_LiliputLib'
+      spriteID: 'thum_grandBazar'
       
     - mapDisplayName: Lost Aztec Empire
       mapId: 7
@@ -44,10 +114,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_AlchemistLab'
       
-    - mapDisplayName: Bazaar Mirage
-      mapId: 6
+    - mapDisplayName: Tiny Tales Library
+      mapId: 9
       isLocallyHosted: false
-      spriteID: 'thum_grandBazar'
+      spriteID: 'thum_LiliputLib'
       
     - mapDisplayName: Vintage Metropolis
       mapId: 10
@@ -299,16 +369,114 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_LunarResearch'
 
+    - mapDisplayName: Air Loop
+      mapId: 447
+      isLocallyHosted: true
+      spriteID: 'thum_AirportTerminal'
+      prefabId: 433
+      mapType: Mirror
+
+    - mapDisplayName: Think Spin
+      mapId: 448
+      isLocallyHosted: true
+      spriteID: 'thum_ScienceCenter'
+      prefabId: 434
+      mapType: Mirror
+
+    - mapDisplayName: Dust Echo
+      mapId: 449
+      isLocallyHosted: false
+      spriteID: 'thum_RedPlanet'
+      prefabId: 435
+      mapType: Mirror
+
+    - mapDisplayName: Wave Swap
+      mapId: 450
+      isLocallyHosted: false
+      spriteID: 'thum_SplashPark'
+      prefabId: 436
+      mapType: Mirror
+
+    - mapDisplayName: Dock Turn
+      mapId: 451
+      isLocallyHosted: false
+      spriteID: 'thum_ShipyardPort'
+      prefabId: 437
+      mapType: Mirror
+
+    - mapDisplayName: CropFlip
+      mapId: 452
+      isLocallyHosted: false
+      spriteID: 'thum_ThanksgivingHarvest'
+      prefabId: 438
+      mapType: Mirror
+
+    - mapDisplayName: Stack Flip
+      mapId: 453
+      isLocallyHosted: false
+      spriteID: 'thum_MegaBuild'
+      prefabId: 439
+      mapType: Mirror
+
+    - mapDisplayName: Plaza Spin
+      mapId: 454
+      isLocallyHosted: false
+      spriteID: 'thum_HeritagePlaza'
+      prefabId: 440
+      mapType: Mirror
+
+    - mapDisplayName: Ore Twist
+      mapId: 455
+      isLocallyHosted: false
+      spriteID: 'thum_MountainMining'
+      prefabId: 441
+      mapType: Mirror
+
+    - mapDisplayName: Bus Loop
+      mapId: 456
+      isLocallyHosted: false
+      spriteID: 'thum_BusTerminal'
+      prefabId: 442
+      mapType: Mirror
+
+    - mapDisplayName: Track Flip
+      mapId: 457
+      isLocallyHosted: false
+      spriteID: 'thum_RailwayTerminal'
+      prefabId: 443
+      mapType: Mirror
+
+    - mapDisplayName: March Echo
+      mapId: 458
+      isLocallyHosted: false
+      spriteID: 'thum_ParadeStreet'
+      prefabId: 444
+      mapType: Mirror
+
+    - mapDisplayName: Bite Twist
+      mapId: 459
+      isLocallyHosted: false
+      spriteID: 'thum_RestaurantDistrict'
+      prefabId: 445
+      mapType: Mirror
+
+    - mapDisplayName: Kite Drift
+      mapId: 460
+      isLocallyHosted: false
+      spriteID: 'thum_KiteFestive'
+      prefabId: 446
+      mapType: Mirror
+
     - mapDisplayName: Plaza Reflection
       mapId: 66
-      isLocallyHosted: true
+      isLocallyHosted: false
       spriteID: 'thum_LibertySquare'
       prefabId: 1
       mapType: Mirror
     
     - mapDisplayName: Paris Mirror
       mapId: 67
-      isLocallyHosted: true
+      isLocallyHosted: false
       spriteID: 'thum_eiffelTower'
       prefabId: 2
       mapType: Mirror
