@@ -1,8 +1,8 @@
 listOfMaps:
-    - mapDisplayName: Backyard Play Zone
-      mapId: 432
+    - mapDisplayName: Science Center
+      mapId: 434
       isLocallyHosted: true
-      spriteID: 'thum_BackyardPlayZone'  
+      spriteID: 'thum_ScienceCenter'  
     
     - mapDisplayName: Airport Terminal
       mapId: 433
