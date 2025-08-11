@@ -9,16 +9,16 @@ listOfMaps:
       isLocallyHosted: true
       spriteID: 'thum_AirportTerminal'
     
-    - mapDisplayName: Science Center
-      mapId: 434
-      isLocallyHosted: true
-      spriteID: 'thum_ScienceCenter'
-      
     - mapDisplayName: Red Planet
       mapId: 435
       isLocallyHosted: false
       spriteID: 'thum_RedPlanet'
-    
+
+    - mapDisplayName: Science Center
+      mapId: 434
+      isLocallyHosted: true
+      spriteID: 'thum_ScienceCenter'
+
     - mapDisplayName: Splash Park
       mapId: 436
       isLocallyHosted: false
