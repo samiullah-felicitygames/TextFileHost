@@ -8,7 +8,7 @@ listOfMaps:
       mapId: 433
       isLocallyHosted: true
       spriteID: 'thum_AirportTerminal'
-    
+
     - mapDisplayName: Science Center
       mapId: 434
       isLocallyHosted: true
