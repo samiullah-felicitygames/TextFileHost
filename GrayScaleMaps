@@ -1,7 +1,7 @@
 listOfMaps:
     - mapDisplayName: Fly Twist
       mapId: 516
-      isLocallyHosted: true
+      isLocallyHosted: false
       spriteID: 'thum_KiteFestive'
       prefabId: 446
       mapType: Mirror
