@@ -34,10 +34,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_ThanksgivingHarvest'
     
-    - mapDisplayName: Mega Build
-      mapId: 439
+    - mapDisplayName: Red Planet
+      mapId: 435
       isLocallyHosted: false
-      spriteID: 'thum_MegaBuild'
+      spriteID: 'thum_RedPlanet'
     
     - mapDisplayName: Heritage Plaza
       mapId: 440
