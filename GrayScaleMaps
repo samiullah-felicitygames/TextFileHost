@@ -1,9 +1,10 @@
 listOfMaps:
-    - mapDisplayName: Sky Fade
-      mapId: 489
+    - mapDisplayName: Fly Twist
+      mapId: 516
       isLocallyHosted: true
-      spriteID: 'thum_AirportTerminal'
-      prefabId: 433
+      spriteID: 'thum_KiteFestive'
+      prefabId: 446
+      mapType: Mirror
 
     - mapDisplayName: Brain Line
       mapId: 490
