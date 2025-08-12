@@ -14,10 +14,10 @@ listOfMaps:
       isLocallyHosted: true
       spriteID: 'thum_ScienceCenter'
       
-    - mapDisplayName: Mega Build
-      mapId: 439
+    - mapDisplayName: Red Planet
+      mapId: 435
       isLocallyHosted: false
-      spriteID: 'thum_MegaBuild'
+      spriteID: 'thum_RedPlanet'
     
     - mapDisplayName: Splash Park
       mapId: 436
@@ -34,10 +34,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_ThanksgivingHarvest'
     
-    - mapDisplayName: Red Planet
-      mapId: 435
+    - mapDisplayName: Mega Build
+      mapId: 439
       isLocallyHosted: false
-      spriteID: 'thum_RedPlanet'
+      spriteID: 'thum_MegaBuild'
     
     - mapDisplayName: Heritage Plaza
       mapId: 440
