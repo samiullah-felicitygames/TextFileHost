@@ -14,10 +14,10 @@ listOfMaps:
       isLocallyHosted: true
       spriteID: 'thum_ScienceCenter'
       
-    - mapDisplayName: Red Planet
-      mapId: 435
+    - mapDisplayName: Mega Build
+      mapId: 439
       isLocallyHosted: false
-      spriteID: 'thum_RedPlanet'
+      spriteID: 'thum_MegaBuild'
     
     - mapDisplayName: Splash Park
       mapId: 436
