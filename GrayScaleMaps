@@ -1,0 +1,923 @@
+listOfMaps:
+    - mapDisplayName: Sky Fade
+      mapId: 489
+      isLocallyHosted: true
+      spriteID: 'thum_AirportTerminal'
+      prefabId: 433
+
+    - mapDisplayName: Brain Line
+      mapId: 490
+      isLocallyHosted: true
+      spriteID: 'thum_ScienceCenter'
+      prefabId: 434
+
+    - mapDisplayName: Mars Mono
+      mapId: 491
+      isLocallyHosted: false
+      spriteID: 'thum_RedPlanet'
+      prefabId: 435
+
+    - mapDisplayName: Wet Sketch
+      mapId: 492
+      isLocallyHosted: false
+      spriteID: 'thum_SplashPark'
+      prefabId: 436
+
+    - mapDisplayName: Harbor Fade
+      mapId: 493
+      isLocallyHosted: false
+      spriteID: 'thum_ShipyardPort'
+      prefabId: 437
+
+    - mapDisplayName: Grain Mono
+      mapId: 494
+      isLocallyHosted: false
+      spriteID: 'thum_ThanksgivingHarvest'
+      prefabId: 438
+
+    - mapDisplayName: Gray Block
+      mapId: 495
+      isLocallyHosted: false
+      spriteID: 'thum_MegaBuild'
+      prefabId: 439
+
+    - mapDisplayName: Shade Hall
+      mapId: 496
+      isLocallyHosted: false
+      spriteID: 'thum_HeritagePlaza'
+      prefabId: 440
+
+    - mapDisplayName: Mono Mine
+      mapId: 497
+      isLocallyHosted: false
+      spriteID: 'thum_MountainMining'
+      prefabId: 441
+
+    - mapDisplayName: Route Line
+      mapId: 498
+      isLocallyHosted: false
+      spriteID: 'thum_BusTerminal'
+      prefabId: 442
+
+    - mapDisplayName: Rail Mono
+      mapId: 499
+      isLocallyHosted: false
+      spriteID: 'thum_RailwayTerminal'
+      prefabId: 443
+
+    - mapDisplayName: Banner Fade
+      mapId: 500
+      isLocallyHosted: false
+      spriteID: 'thum_ParadeStreet'
+      prefabId: 444
+
+    - mapDisplayName: Food Gray
+      mapId: 501
+      isLocallyHosted: false
+      spriteID: 'thum_RestaurantDistrict'
+      prefabId: 445
+
+    - mapDisplayName: Mono Fly
+      mapId: 502
+      isLocallyHosted: false
+      spriteID: 'thum_KiteFestive'
+      prefabId: 446
+
+    - mapDisplayName: Sketch Plaza
+      mapId: 293
+      isLocallyHosted: false
+      spriteID: 'thum_LibertySquare'
+      prefabId: 1
+    
+    - mapDisplayName: Paris Lines
+      mapId: 294
+      isLocallyHosted: false
+      spriteID: 'thum_eiffelTower'
+      prefabId: 2
+    
+    - mapDisplayName: Yuletide Ink
+      mapId: 295
+      isLocallyHosted: false
+      spriteID: 'thum_christmas'
+      prefabId: 3
+      
+    - mapDisplayName: Hollow Sketch
+      mapId: 296
+      isLocallyHosted: false
+      spriteID: 'thum_Halloween'
+      prefabId: 4
+      
+    - mapDisplayName: Monk's Draft
+      mapId: 297
+      isLocallyHosted: false
+      spriteID: 'thum_ShaolinTemple'
+      prefabId: 5
+      
+    - mapDisplayName: Bazaar Outline
+      mapId: 298
+      isLocallyHosted: false
+      spriteID: 'thum_grandBazar'
+      prefabId: 6
+      
+    - mapDisplayName: Aztec Sketch
+      mapId: 299
+      isLocallyHosted: false
+      spriteID: 'thum_Aztec'
+      prefabId: 7
+      
+    - mapDisplayName: Workshop Lines
+      mapId: 300
+      isLocallyHosted: false
+      spriteID: 'thum_AlchemistLab'
+      prefabId: 8
+      
+    - mapDisplayName: Library Draft
+      mapId: 301
+      isLocallyHosted: false
+      spriteID: 'thum_LiliputLib'
+      prefabId: 9
+      
+    - mapDisplayName: Metro Outline
+      mapId: 302
+      isLocallyHosted: false
+      spriteID: 'thum_RusticMetropolis'
+      prefabId: 10
+      
+    - mapDisplayName: Arena Sketch
+      mapId: 303
+      isLocallyHosted: false
+      spriteID: 'thum_SuperBowl2025'
+      prefabId: 11
+      
+    - mapDisplayName: Thrill Lines
+      mapId: 304
+      isLocallyHosted: false
+      spriteID: 'thum_AmusementPark'
+      prefabId: 12
+      
+    - mapDisplayName: Countdown Ink
+      mapId: 305
+      isLocallyHosted: false
+      spriteID: 'thum_NewYear2025'
+      prefabId: 13
+      
+    - mapDisplayName: Ocean Draft
+      mapId: 306
+      isLocallyHosted: false
+      spriteID: 'thum_Aquarium'
+      prefabId: 14
+      
+    - mapDisplayName: Feast Outline
+      mapId: 307
+      isLocallyHosted: false
+      spriteID: 'thum_ZenFoodFest'
+      prefabId: 15
+      
+    - mapDisplayName: Neon Sketch
+      mapId: 308
+      isLocallyHosted: false
+      spriteID: 'thum_cyberpunkCity'
+      prefabId: 16
+      
+    - mapDisplayName: Campus Lines
+      mapId: 309
+      isLocallyHosted: false
+      spriteID: 'thum_collegeCampus'
+      prefabId: 17
+      
+    - mapDisplayName: Sugar Draft
+      mapId: 310
+      isLocallyHosted: false
+      spriteID: 'thum_candyLand'
+      prefabId: 18
+      
+    - mapDisplayName: Aqua Outline
+      mapId: 311
+      isLocallyHosted: false
+      spriteID: 'thum_AquaticBay'
+      prefabId: 19
+      
+    - mapDisplayName: Hub Sketch
+      mapId: 312
+      isLocallyHosted: false
+      spriteID: 'thum_ResearchCenter'
+      prefabId: 20
+      
+    - mapDisplayName: Heritage Lines
+      mapId: 313
+      isLocallyHosted: false
+      spriteID: 'thum_IndianSaga'
+      prefabId: 21
+      
+    - mapDisplayName: Festival Ink
+      mapId: 314
+      isLocallyHosted: false
+      spriteID: 'thum_Carnival'
+      prefabId: 22
+      
+    - mapDisplayName: Tropic Draft
+      mapId: 315
+      isLocallyHosted: false
+      spriteID: 'thum_cruiseIsland'
+      prefabId: 23
+      
+    - mapDisplayName: Shore Outline
+      mapId: 316
+      isLocallyHosted: false
+      spriteID: 'thum_seabeach'
+      prefabId: 24
+      
+    - mapDisplayName: Pharaoh Sketch
+      mapId: 317
+      isLocallyHosted: false
+      spriteID: 'thum_GreatPyramid'
+      prefabId: 25
+      
+    - mapDisplayName: Frozen Lines
+      mapId: 318
+      isLocallyHosted: false
+      spriteID: 'thum_WinterWonderland'
+      prefabId: 26
+      
+    - mapDisplayName: War Draft
+      mapId: 319
+      isLocallyHosted: false
+      spriteID: 'thum_crashZone'
+      prefabId: 27
+      
+    - mapDisplayName: Cosmic Outline
+      mapId: 320
+      isLocallyHosted: false
+      spriteID: 'thum_galactivOutpost'
+      prefabId: 28
+      
+    - mapDisplayName: River Sketch
+      mapId: 321
+      isLocallyHosted: false
+      spriteID: 'thum_RiversideBistro'
+      prefabId: 29
+      
+    - mapDisplayName: Trek Lines
+      mapId: 322
+      isLocallyHosted: false
+      spriteID: 'thum_JungleExpedition'
+      prefabId: 30
+      
+    - mapDisplayName: Glade Draft
+      mapId: 323
+      isLocallyHosted: false
+      spriteID: 'thum_fairyVillage'
+      prefabId: 31
+      
+    - mapDisplayName: Arctic Outline
+      mapId: 324
+      isLocallyHosted: false
+      spriteID: 'thum_IcebergCruise'
+      prefabId: 32
+      
+    - mapDisplayName: Harvest Sketch
+      mapId: 325
+      isLocallyHosted: false
+      spriteID: 'thum_farmsteadBliss'
+      prefabId: 33
+      
+    - mapDisplayName: Cyber Lines
+      mapId: 326
+      isLocallyHosted: false
+      spriteID: 'thum_NeonMetropolis'
+      prefabId: 34
+      
+    - mapDisplayName: Blossom Draft
+      mapId: 327
+      isLocallyHosted: false
+      spriteID: 'thum_easter'
+      prefabId: 35
+      
+    - mapDisplayName: Echo Outline
+      mapId: 328
+      isLocallyHosted: false
+      spriteID: 'thum_TimeWornRuins'
+      prefabId: 36
+      
+    - mapDisplayName: Desert Sketch
+      mapId: 329
+      isLocallyHosted: false
+      spriteID: 'thum_cactusValley'
+      prefabId: 37
+      
+    - mapDisplayName: Samurai Lines
+      mapId: 330
+      isLocallyHosted: false
+      spriteID: 'thum_cyberSamurai'
+      prefabId: 38
+      
+    - mapDisplayName: Relic Draft
+      mapId: 331
+      isLocallyHosted: false
+      spriteID: 'thum_RuinsOfPast'
+      prefabId: 39
+
+    - mapDisplayName: Lab Outline
+      mapId: 332
+      isLocallyHosted: false
+      spriteID: 'thum_BiohazardLab'
+      prefabId: 54
+    
+    - mapDisplayName: Ice Sketch
+      mapId: 333
+      isLocallyHosted: false
+      spriteID: 'thum_ArcticResearchFacility'
+      prefabId: 55
+    
+    - mapDisplayName: Isle Lines
+      mapId: 334
+      isLocallyHosted: false
+      spriteID: 'thum_FloatingIslesOfZephyr'
+      prefabId: 56
+    
+    - mapDisplayName: Cemetery Draft
+      mapId: 335
+      isLocallyHosted: false
+      spriteID: 'thum_HauntedCemetery'
+      prefabId: 57
+    
+    - mapDisplayName: Shrine Outline
+      mapId: 336
+      isLocallyHosted: false
+      spriteID: 'thum_SakuraShrine'
+      prefabId: 58
+    
+    - mapDisplayName: Dragon Sketch
+      mapId: 337
+      isLocallyHosted: false
+      spriteID: 'thum_DragonRoost'
+      prefabId: 59
+    
+    - mapDisplayName: Sand Lines
+      mapId: 338
+      isLocallyHosted: false
+      spriteID: 'thum_DesertNomadCamp'
+      prefabId: 60
+    
+    - mapDisplayName: Ghost Draft
+      mapId: 339
+      isLocallyHosted: false
+      spriteID: 'thum_GhostlyAmusementPark'
+      prefabId: 61
+    
+    - mapDisplayName: Star Outline
+      mapId: 340
+      isLocallyHosted: false
+      spriteID: 'thum_CelestialObservatory'
+      prefabId: 62
+    
+    - mapDisplayName: Clock Sketch
+      mapId: 341
+      isLocallyHosted: false
+      spriteID: 'thum_ClockworkCity'
+      prefabId: 63
+    
+    - mapDisplayName: April Lines
+      mapId: 342
+      isLocallyHosted: false
+      spriteID: 'thum_AprilFoolsDay'
+      prefabId: 64
+    
+    - mapDisplayName: Port Draft
+      mapId: 343
+      isLocallyHosted: false
+      spriteID: 'thum_SteampunkSkyport'
+      prefabId: 65
+
+    - mapDisplayName: Gray Atlantis
+      mapId: 344
+      isLocallyHosted: false
+      spriteID: 'thum_UnderwaterAtlantis'
+      prefabId: 412
+
+    - mapDisplayName: Steel Junkyard
+      mapId: 349
+      isLocallyHosted: false
+      spriteID: 'thum_NeonJunkyard'
+      prefabId: 413
+
+    - mapDisplayName: Vintage July
+      mapId: 350
+      isLocallyHosted: false
+      spriteID: 'thum_USIndependence'
+      prefabId: 414
+
+    - mapDisplayName: Mono Theatre
+      mapId: 345
+      isLocallyHosted: false
+      spriteID: 'thum_PuppetTheatre'
+      prefabId: 422
+    
+    - mapDisplayName: Pale Valentine
+      mapId: 347
+      isLocallyHosted: false
+      spriteID: 'thum_ValentinesDay'
+      prefabId: 424
+    
+    - mapDisplayName: Ash Research
+      mapId: 348
+      isLocallyHosted: false
+      spriteID: 'thum_LunarResearch'
+      prefabId: 425
+
+    - mapDisplayName: Fade Loop
+      mapId: 503
+      isLocallyHosted: true
+      spriteID: 'thum_AirportTerminal'
+      prefabId: 433
+      mapType: Mirror
+
+    - mapDisplayName: Line Flip
+      mapId: 504
+      isLocallyHosted: true
+      spriteID: 'thum_ScienceCenter'
+      prefabId: 434
+      mapType: Mirror
+
+    - mapDisplayName: Dust Sketch
+      mapId: 505
+      isLocallyHosted: false
+      spriteID: 'thum_RedPlanet'
+      prefabId: 435
+      mapType: Mirror
+
+    - mapDisplayName: Splash Mono
+      mapId: 506
+      isLocallyHosted: false
+      spriteID: 'thum_SplashPark'
+      prefabId: 436
+      mapType: Mirror
+
+    - mapDisplayName: Dock Gray
+      mapId: 507
+      isLocallyHosted: false
+      spriteID: 'thum_ShipyardPort'
+      prefabId: 437
+      mapType: Mirror
+
+    - mapDisplayName: Mono Crop
+      mapId: 508
+      isLocallyHosted: false
+      spriteID: 'thum_ThanksgivingHarvest'
+      prefabId: 438
+      mapType: Mirror
+
+    - mapDisplayName: Stack Mono
+      mapId: 509
+      isLocallyHosted: false
+      spriteID: 'thum_MegaBuild'
+      prefabId: 439
+      mapType: Mirror
+
+    - mapDisplayName: Hall Turn
+      mapId: 510
+      isLocallyHosted: false
+      spriteID: 'thum_HeritagePlaza'
+      prefabId: 440
+      mapType: Mirror
+
+    - mapDisplayName: Mine Echo
+      mapId: 511
+      isLocallyHosted: false
+      spriteID: 'thum_MountainMining'
+      prefabId: 441
+      mapType: Mirror
+
+    - mapDisplayName: Route Twist
+      mapId: 512
+      isLocallyHosted: false
+      spriteID: 'thum_BusTerminal'
+      prefabId: 442
+      mapType: Mirror
+
+    - mapDisplayName: Rail Line
+      mapId: 513
+      isLocallyHosted: false
+      spriteID: 'thum_RailwayTerminal'
+      prefabId: 443
+      mapType: Mirror
+
+    - mapDisplayName: Banner Loop
+      mapId: 514
+      isLocallyHosted: false
+      spriteID: 'thum_ParadeStreet'
+      prefabId: 444
+      mapType: Mirror
+
+    - mapDisplayName: Bite Fade
+      mapId: 515
+      isLocallyHosted: false
+      spriteID: 'thum_RestaurantDistrict'
+      prefabId: 445
+      mapType: Mirror
+
+    - mapDisplayName: Fly Twist
+      mapId: 516
+      isLocallyHosted: true
+      spriteID: 'thum_KiteFestive'
+      prefabId: 446
+      mapType: Mirror
+
+    - mapDisplayName: Plaza Reverse
+      mapId: 351
+      isLocallyHosted: false
+      spriteID: 'thum_LibertySquare'
+      prefabId: 1
+      mapType: Mirror
+    
+    - mapDisplayName: Lines Mirrored
+      mapId: 352
+      isLocallyHosted: false
+      spriteID: 'thum_eiffelTower'
+      prefabId: 2
+      mapType: Mirror
+    
+    - mapDisplayName: Ink Reflected
+      mapId: 353
+      isLocallyHosted: false
+      spriteID: 'thum_christmas'
+      prefabId: 3
+      mapType: Mirror
+      
+    - mapDisplayName: Sketch Flipped
+      mapId: 354
+      isLocallyHosted: false
+      spriteID: 'thum_Halloween'
+      prefabId: 4
+      mapType: Mirror
+      
+    - mapDisplayName: Draft Inverted
+      mapId: 355
+      isLocallyHosted: false
+      spriteID: 'thum_ShaolinTemple'
+      prefabId: 5
+      mapType: Mirror
+      
+    - mapDisplayName: Outline Doubled
+      mapId: 356
+      isLocallyHosted: false
+      spriteID: 'thum_grandBazar'
+      prefabId: 6
+      mapType: Mirror
+      
+    - mapDisplayName: Sketch Opposite
+      mapId: 357
+      isLocallyHosted: false
+      spriteID: 'thum_Aztec'
+      prefabId: 7
+      mapType: Mirror
+      
+    - mapDisplayName: Lines Backward
+      mapId: 358
+      isLocallyHosted: false
+      spriteID: 'thum_AlchemistLab'
+      prefabId: 8
+      mapType: Mirror
+      
+    - mapDisplayName: Draft Reversed
+      mapId: 359
+      isLocallyHosted: false
+      spriteID: 'thum_LiliputLib'
+      prefabId: 9
+      mapType: Mirror
+      
+    - mapDisplayName: Outline Flipped
+      mapId: 360
+      isLocallyHosted: false
+      spriteID: 'thum_RusticMetropolis'
+      prefabId: 10
+      mapType: Mirror
+      
+    - mapDisplayName: Sketch Inverted
+      mapId: 361
+      isLocallyHosted: false
+      spriteID: 'thum_SuperBowl2025'
+      prefabId: 11
+      mapType: Mirror
+      
+    - mapDisplayName: Lines Doubled
+      mapId: 362
+      isLocallyHosted: false
+      spriteID: 'thum_AmusementPark'
+      prefabId: 12
+      mapType: Mirror
+      
+    - mapDisplayName: Ink Opposite
+      mapId: 363
+      isLocallyHosted: false
+      spriteID: 'thum_NewYear2025'
+      prefabId: 13
+      mapType: Mirror
+      
+    - mapDisplayName: Draft Backward
+      mapId: 364
+      isLocallyHosted: false
+      spriteID: 'thum_Aquarium'
+      prefabId: 14
+      mapType: Mirror
+      
+    - mapDisplayName: Outline Reversed
+      mapId: 365
+      isLocallyHosted: false
+      spriteID: 'thum_ZenFoodFest'
+      prefabId: 15
+      mapType: Mirror
+      
+    - mapDisplayName: Sketch Flipped
+      mapId: 366
+      isLocallyHosted: false
+      spriteID: 'thum_cyberpunkCity'
+      prefabId: 16
+      mapType: Mirror
+      
+    - mapDisplayName: Lines Inverted
+      mapId: 367
+      isLocallyHosted: false
+      spriteID: 'thum_collegeCampus'
+      prefabId: 17
+      mapType: Mirror
+      
+    - mapDisplayName: Draft Doubled
+      mapId: 368
+      isLocallyHosted: false
+      spriteID: 'thum_candyLand'
+      prefabId: 18
+      mapType: Mirror
+      
+    - mapDisplayName: Outline Opposite
+      mapId: 369
+      isLocallyHosted: false
+      spriteID: 'thum_AquaticBay'
+      prefabId: 19
+      mapType: Mirror
+      
+    - mapDisplayName: Sketch Backward
+      mapId: 370
+      isLocallyHosted: false
+      spriteID: 'thum_ResearchCenter'
+      prefabId: 20
+      mapType: Mirror
+      
+    - mapDisplayName: Lines Reversed
+      mapId: 371
+      isLocallyHosted: false
+      spriteID: 'thum_IndianSaga'
+      prefabId: 21
+      mapType: Mirror
+      
+    - mapDisplayName: Ink Flipped
+      mapId: 372
+      isLocallyHosted: false
+      spriteID: 'thum_Carnival'
+      prefabId: 22
+      mapType: Mirror
+      
+    - mapDisplayName: Draft Inverted
+      mapId: 373
+      isLocallyHosted: false
+      spriteID: 'thum_cruiseIsland'
+      prefabId: 23
+      mapType: Mirror
+      
+    - mapDisplayName: Outline Doubled
+      mapId: 374
+      isLocallyHosted: false
+      spriteID: 'thum_seabeach'
+      prefabId: 24
+      mapType: Mirror
+      
+    - mapDisplayName: Sketch Opposite
+      mapId: 375
+      isLocallyHosted: false
+      spriteID: 'thum_GreatPyramid'
+      prefabId: 25
+      mapType: Mirror
+      
+    - mapDisplayName: Lines Backward
+      mapId: 376
+      isLocallyHosted: false
+      spriteID: 'thum_WinterWonderland'
+      prefabId: 26
+      mapType: Mirror
+      
+    - mapDisplayName: Draft Reversed
+      mapId: 377
+      isLocallyHosted: false
+      spriteID: 'thum_crashZone'
+      prefabId: 27
+      mapType: Mirror
+      
+    - mapDisplayName: Outline Flipped
+      mapId: 378
+      isLocallyHosted: false
+      spriteID: 'thum_galactivOutpost'
+      prefabId: 28
+      mapType: Mirror
+      
+    - mapDisplayName: Sketch Inverted
+      mapId: 379
+      isLocallyHosted: false
+      spriteID: 'thum_RiversideBistro'
+      prefabId: 29
+      mapType: Mirror
+      
+    - mapDisplayName: Lines Doubled
+      mapId: 380
+      isLocallyHosted: false
+      spriteID: 'thum_JungleExpedition'
+      prefabId: 30
+      mapType: Mirror
+      
+    - mapDisplayName: Draft Opposite
+      mapId: 381
+      isLocallyHosted: false
+      spriteID: 'thum_fairyVillage'
+      prefabId: 31
+      mapType: Mirror
+      
+    - mapDisplayName: Outline Backward
+      mapId: 382
+      isLocallyHosted: false
+      spriteID: 'thum_IcebergCruise'
+      prefabId: 32
+      mapType: Mirror
+      
+    - mapDisplayName: Sketch Reversed
+      mapId: 383
+      isLocallyHosted: false
+      spriteID: 'thum_farmsteadBliss'
+      prefabId: 33
+      mapType: Mirror
+      
+    - mapDisplayName: Lines Flipped
+      mapId: 384
+      isLocallyHosted: false
+      spriteID: 'thum_NeonMetropolis'
+      prefabId: 34
+      mapType: Mirror
+      
+    - mapDisplayName: Draft Inverted
+      mapId: 385
+      isLocallyHosted: false
+      spriteID: 'thum_easter'
+      prefabId: 35
+      mapType: Mirror
+      
+    - mapDisplayName: Outline Doubled
+      mapId: 386
+      isLocallyHosted: false
+      spriteID: 'thum_TimeWornRuins'
+      prefabId: 36
+      mapType: Mirror
+      
+    - mapDisplayName: Sketch Opposite
+      mapId: 387
+      isLocallyHosted: false
+      spriteID: 'thum_cactusValley'
+      prefabId: 37
+      mapType: Mirror
+      
+    - mapDisplayName: Lines Backward
+      mapId: 388
+      isLocallyHosted: false
+      spriteID: 'thum_cyberSamurai'
+      prefabId: 38
+      mapType: Mirror
+      
+    - mapDisplayName: Draft Reversed
+      mapId: 389
+      isLocallyHosted: false
+      spriteID: 'thum_RuinsOfPast'
+      prefabId: 39
+      mapType: Mirror
+
+    - mapDisplayName: Outline Flipped
+      mapId: 390
+      isLocallyHosted: false
+      spriteID: 'thum_BiohazardLab'
+      prefabId: 54
+      mapType: Mirror
+    
+    - mapDisplayName: Sketch Inverted
+      mapId: 391
+      isLocallyHosted: false
+      spriteID: 'thum_ArcticResearchFacility'
+      prefabId: 55
+      mapType: Mirror
+    
+    - mapDisplayName: Lines Doubled
+      mapId: 392
+      isLocallyHosted: false
+      spriteID: 'thum_FloatingIslesOfZephyr'
+      prefabId: 56
+      mapType: Mirror
+    
+    - mapDisplayName: Draft Opposite
+      mapId: 393
+      isLocallyHosted: false
+      spriteID: 'thum_HauntedCemetery'
+      prefabId: 57
+      mapType: Mirror
+    
+    - mapDisplayName: Outline Backward
+      mapId: 394
+      isLocallyHosted: false
+      spriteID: 'thum_SakuraShrine'
+      prefabId: 58
+      mapType: Mirror
+    
+    - mapDisplayName: Sketch Reversed
+      mapId: 395
+      isLocallyHosted: false
+      spriteID: 'thum_DragonRoost'
+      prefabId: 59
+      mapType: Mirror
+    
+    - mapDisplayName: Lines Flipped
+      mapId: 396
+      isLocallyHosted: false
+      spriteID: 'thum_DesertNomadCamp'
+      prefabId: 60
+      mapType: Mirror
+    
+    - mapDisplayName: Draft Inverted
+      mapId: 397
+      isLocallyHosted: false
+      spriteID: 'thum_GhostlyAmusementPark'
+      prefabId: 61
+      mapType: Mirror
+    
+    - mapDisplayName: Outline Doubled
+      mapId: 398
+      isLocallyHosted: false
+      spriteID: 'thum_CelestialObservatory'
+      prefabId: 62
+      mapType: Mirror
+    
+    - mapDisplayName: Sketch Opposite
+      mapId: 399
+      isLocallyHosted: false
+      spriteID: 'thum_ClockworkCity'
+      prefabId: 63
+      mapType: Mirror
+    
+    - mapDisplayName: Lines Backward
+      mapId: 400
+      isLocallyHosted: false
+      spriteID: 'thum_AprilFoolsDay'
+      prefabId: 64
+      mapType: Mirror
+    
+    - mapDisplayName: Draft Reversed
+      mapId: 401
+      isLocallyHosted: false
+      spriteID: 'thum_SteampunkSkyport'
+      prefabId: 65
+      mapType: Mirror
+
+    - mapDisplayName: Mirror Atlantis
+      mapId: 402
+      isLocallyHosted: false
+      spriteID: 'thum_UnderwaterAtlantis'
+      prefabId: 412
+      mapType: Mirror
+
+    - mapDisplayName: Reflect Junkyard
+      mapId: 407
+      isLocallyHosted: false
+      spriteID: 'thum_NeonJunkyard'
+      prefabId: 413
+      mapType: Mirror
+
+    - mapDisplayName: Mirror July
+      mapId: 408
+      isLocallyHosted: false
+      spriteID: 'thum_USIndependence'
+      prefabId: 414
+      mapType: Mirror
+
+    - mapDisplayName: Flip Theatre
+      mapId: 403
+      isLocallyHosted: false
+      spriteID: 'thum_PuppetTheatre'
+      prefabId: 422
+      mapType: Mirror
+    
+    - mapDisplayName: Dual Valentine
+      mapId: 405
+      isLocallyHosted: false
+      spriteID: 'thum_ValentinesDay'
+      prefabId: 424
+      mapType: Mirror
+    
+    - mapDisplayName: Echo Research
+      mapId: 406
+      isLocallyHosted: false
+      spriteID: 'thum_LunarResearch'
+      prefabId: 425
+      mapType: Mirror
