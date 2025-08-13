@@ -9,10 +9,10 @@ listOfMaps:
       isLocallyHosted: true
       spriteID: 'thum_AirportTerminal'
 
-    - mapDisplayName: Science Center
-      mapId: 434
-      isLocallyHosted: true
-      spriteID: 'thum_ScienceCenter'
+    - mapDisplayName: Heritage Plaza
+      mapId: 440
+      isLocallyHosted: false
+      spriteID: 'thum_HeritagePlaza'
 
     - mapDisplayName: Red Planet
       mapId: 435
@@ -39,10 +39,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_MegaBuild'
 
-    - mapDisplayName: Heritage Plaza
-      mapId: 440
-      isLocallyHosted: false
-      spriteID: 'thum_HeritagePlaza'
+    - mapDisplayName: Science Center
+      mapId: 434
+      isLocallyHosted: true
+      spriteID: 'thum_ScienceCenter'
 
     - mapDisplayName: Mountain Mining
       mapId: 441
