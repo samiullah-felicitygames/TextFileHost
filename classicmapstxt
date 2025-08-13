@@ -19,10 +19,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_RedPlanet'
 
-    - mapDisplayName: Splash Park
-      mapId: 436
+    - mapDisplayName: Mega Build
+      mapId: 439
       isLocallyHosted: false
-      spriteID: 'thum_SplashPark'
+      spriteID: 'thum_MegaBuild'
 
     - mapDisplayName: Shipyard Port
       mapId: 437
@@ -34,10 +34,10 @@ listOfMaps:
       isLocallyHosted: false
       spriteID: 'thum_ThanksgivingHarvest'
 
-    - mapDisplayName: Mega Build
-      mapId: 439
+    - mapDisplayName: Splash Park
+      mapId: 436
       isLocallyHosted: false
-      spriteID: 'thum_MegaBuild'
+      spriteID: 'thum_SplashPark'
 
     - mapDisplayName: Heritage Plaza
       mapId: 440
