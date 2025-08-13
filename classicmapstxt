@@ -4,10 +4,10 @@ listOfMaps:
       isLocallyHosted: true
       spriteID: 'thum_BackyardPlayZone'  
     
-    - mapDisplayName: Red Planet
-      mapId: 435
-      isLocallyHosted: false
-      spriteID: 'thum_RedPlanet'
+    - mapDisplayName: Airport Terminal
+      mapId: 433
+      isLocallyHosted: true
+      spriteID: 'thum_AirportTerminal'
     
     - mapDisplayName: Science Center
       mapId: 434
